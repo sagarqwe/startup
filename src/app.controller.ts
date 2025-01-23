@@ -6,6 +6,10 @@ export class AppController{
     @Get()
     getInfo()
     {
-        return "Hi, Welcome to heaven";
+        return {
+            "data":"abc",
+            "message":"Success",
+            "status":200
+        };
     }
 }
