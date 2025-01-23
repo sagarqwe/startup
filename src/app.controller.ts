@@ -6,6 +6,6 @@ export class AppController{
     @Get()
     getInfo()
     {
-        return "Hi, Welcome to Hell";
+        return "Hi, Welcome to heaven";
     }
 }
