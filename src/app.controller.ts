@@ -7,8 +7,8 @@ export class AppController{
     getInfo()
     {
         return {
-            "data":"abc",
-            "message":"Success",
+            "data":"Sagar",
+            "message":"C paper back",
             "status":200
         };
     }
